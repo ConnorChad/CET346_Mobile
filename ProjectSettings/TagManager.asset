@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - PressurePad
+  - Enemy
+  - Undefined
+  - EnemyCube
+  - FxTemporaire
+  - PlayerSword
+  - FakeRock
+  - MovingPlatform
+  - Lava
+  - EnemySword
+  - SpawnTrigger
+  - KeyHole
+  - Teleporter
+  - Teleporter2
+  - MoveableRock
+  - RockEnter
+  - Teleporter3
+  - Lever
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Ground
+  - Interactable
+  - PostProcess
+  - Lava
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
